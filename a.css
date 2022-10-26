@@ -1,0 +1,253 @@
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  background: black;
+}
+.container {
+  background: black;
+  color: white;
+}
+/* .bore {
+    background: green;
+  } */
+.bore input {
+  background: rgb(0, 0, 0);
+  width: 100%;
+  margin-top: 80px;
+  outline: none;
+  border: 0;
+  font-size: 80px;
+  text-align: right;
+  color: white;
+}
+::placeholder {
+  color: white;
+}
+.bor {
+  background: rgb(0, 0, 0);
+}
+/* .col-1 {
+    margin-right: 10px;
+  }
+  /* .col-2 {
+    border: 1px solid red;
+  }  */
+.first {
+  margin-bottom: 14px;
+}
+/* .last {
+  margin-left: 15px;
+} */
+.new {
+  height: 10px;
+  background: black;
+}
+
+.box-2 {
+  background: #9f9f9f;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-3 {
+  background: #9f9f9f;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-4 {
+  background: #9f9f9f;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-5 {
+  background: #f38a02;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-6 {
+  background: #333;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-7 {
+  background: #333;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-8 {
+  background: #333;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-9 {
+  background: #f38a02;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-10 {
+  background: #333;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-11 {
+  background: #333;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-12 {
+  background: #333;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-13 {
+  background: #f38a02;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-14 {
+  background: #333;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-15 {
+  background: #333;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-16 {
+  background: #333;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-17 {
+  background: #f38a02;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-18 {
+  background: #333;
+
+  align-items: center;
+  border-radius: 50px;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-19 {
+  background: #333;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
+.box-20 {
+  background: #f38a02;
+
+  align-items: center;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  font-size: 20px;
+  height: 65px;
+  justify-content: center;
+}
